@@ -1,0 +1,88 @@
+
+[
+  {
+    "hora_inicio": "5:00",
+    "hora_fin": "8:00",
+    "ventana_1": "Mirabel Madrigal, se despierta y ayuda a preparar el desayuno.",
+    "ventana_2": "Luisa Madrigal se despierta y ayuda con las tareas pesadas de la casa.",
+    "ventana_3": "Camilo Madrigal se despierta y se entretiene haciendo reír a su familia.",
+    "ventana_4": "Antonio Madrigal se despierta y pasa un rato con sus amigos animales.",
+    "audio_ventana_1": "assets/Cocina.mp3",
+    "audio_ventana_2": "",
+    "audio_ventana_3": "",
+    "audio_ventana_4": ""
+  },
+  {
+    "hora_inicio": "8:00",
+    "hora_fin": "12:00",
+    "ventana_1": "Mirabel Madrigal, está bordando en su nueva falda.",
+    "ventana_2": "Luisa Madrigal está en el pueblo ayudando a cargar objetos pesados.",
+    "ventana_3": "Camilo Madrigal está en el pueblo haciendo reír a las personas para animarlas.",
+    "ventana_4": "Antonio Madrigal sigue en su habitación jugando con sus amigos.",
+    "audio_ventana_1": "assets/Maquina.mp3",
+    "audio_ventana_2": "",
+    "audio_ventana_3": "",
+    "audio_ventana_4": ""
+  },
+  {
+    "hora_inicio": "12:00",
+    "hora_fin": "14:00",
+    "ventana_1": "Mirabel Madrigal, está comiendo con su familia.",
+    "ventana_2": "Luisa Madrigal está comiendo con su familia y descansando.",
+    "ventana_3": "Camilo Madrigal está comiendo con su familia.",
+    "ventana_4": "Antonio Madrigal está comiendo con su familia.",
+    "audio_ventana_1": "assets/Comida.mp3",
+    "audio_ventana_2": "",
+    "audio_ventana_3": "",
+    "audio_ventana_4": ""
+  },
+  {
+    "hora_inicio": "14:00",
+    "hora_fin": "17:00",
+    "ventana_1": "Mirabel Madrigal, está explorando la casita y ayudando a quien lo necesite.",
+    "ventana_2": "Luisa Madrigal está nuevamente en el pueblo ayudando a construir casas y a transportar cosas.",
+    "ventana_3": "Camilo Madrigal está ayudando a su abuela a alcanzar lugares altos con su don de cambiar de forma.",
+    "ventana_4": "Antonio Madrigal está afuera explorando con sus animales.",
+    "audio_ventana_1": "",
+    "audio_ventana_2": "",
+    "audio_ventana_3": "",
+    "audio_ventana_4": ""
+  },
+  {
+    "hora_inicio": "17:00",
+    "hora_fin": "19:00",
+    "ventana_1": "Mirabel Madrigal, está pasando tiempo con Antonio y hacen manualidades.",
+    "ventana_2": "Luisa Madrigal está terminando sus últimas tareas para volver a casa.",
+    "ventana_3": "Camilo Madrigal está en el pueblo jugando con los niños.",
+    "ventana_4": "Antonio Madrigal está pasando tiempo con Mirabel y hacen manualidades.",
+    "audio_ventana_1": "",
+    "audio_ventana_2": "",
+    "audio_ventana_3": "",
+    "audio_ventana_4": ""
+  },
+  {
+    "hora_inicio": "19:00",
+    "hora_fin": "21:00",
+    "ventana_1": "Mirabel Madrigal, está cenando con su familia.",
+    "ventana_2": "Luisa Madrigal está cenando con su familia.",
+    "ventana_3": "Camilo Madrigal está cenando con su familia.",
+    "ventana_4": "Antonio Madrigal está cenando con su familia.",
+    "audio_ventana_1": "assets/Comida.mp3",
+    "audio_ventana_2": "",
+    "audio_ventana_3": "",
+    "audio_ventana_4": ""
+  },
+  {
+    "hora_inicio": "21:00",
+    "hora_fin": "5:00",
+    "ventana_1": "Mirabel Madrigal, está durmiendo.",
+    "ventana_2": "Luisa Madrigal está durmiendo.",
+    "ventana_3": "Camilo Madrigal está durmiendo.",
+    "ventana_4": "Antonio Madrigal está durmiendo.",
+    "audio_ventana_1": "assets/Dormido.mp3",
+    "audio_ventana_2": "assets/Dormido.mp3",
+    "audio_ventana_3": "assets/Dormido.mp3",
+    "audio_ventana_4": "assets/Dormido.mp3"
+  }
+]
+
